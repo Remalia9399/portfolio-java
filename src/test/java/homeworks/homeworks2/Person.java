@@ -1,4 +1,4 @@
-package pl.coderslab.homeworks.homeworks2;
+package homeworks.homeworks2;
 
 public class Person {
     private int id;

@@ -1,4 +1,4 @@
-package pl.coderslab.homeworks.oop.first;
+package homeworks.oop.first;
 
 public class Author {
     private  int id;

@@ -1,18 +1,4 @@
-package pl.coderslab.homeworks.exceptions;
-/*
-Zadanie 1
-W pakiecie pl.coderslab.homeworks.exceptions, w pliku Main01.java umieść metodę o sygnaturze:
-
-public static void average(String a, String b).
-
-uzupełnij ciało metody tak, aby dokonała konwersji zmiennych a i b na typ liczbowy int i wykonała dzielenie zmiennej a przez zmienną b,
-zabezpiecz program przed możliwymi błędami,
-dodaj sekcję, która wykona się zawsze niezależnie od tego, czy wystąpi błąd, czy nie,
-pamiętaj o błędzie ArithmeticException,
-zmień typ zmiennych a i b na double i sprawdź jakie otrzymasz wyniki w przypadku dzielenia przez 0.
-Zapoznaj się z artykułami:
-https://www.geeksforgeeks.org/g-fact-33-infinity-or-exception/ https://docs.oracle.com/javase/specs/jls/se7/html/jls-15.html#jls-15.17.2
- */
+package homeworks.exceptions;
 
 public class Main01 {
 
@@ -20,11 +6,8 @@ public class Main01 {
         String a = "10";
         String b = "0";
         average(a,b);
-        System.out.println("Kolejna metoda double");
+        System.out.println("Another double method");
         averageDouble(a,b);
-
-
-
     }
     public static void average(String a, String b) {
         try {
@@ -35,15 +18,14 @@ public class Main01 {
         }
         catch (NumberFormatException e1)
         {
-            System.out.println("Nie poprawny format liczb całkowitych");
+            System.out.println("Incorrect integer format");
         }
         catch (ArithmeticException e2) {
-            System.out.println("Nie można dzielić przez 0");
+            System.out.println("You cannot divide by 0");
         }
         finally {
-            System.out.println("Koniec metody");
+            System.out.println("End of method");
         }
-
     }
     public static void averageDouble(String a, String b) {
         try {
@@ -57,15 +39,13 @@ public class Main01 {
         }
         catch (NumberFormatException e1)
         {
-            System.out.println("Nie poprawny format liczb całkowitych");
+            System.out.println("Invalid double number format");
         }
         catch (ArithmeticException e2) {
-            System.out.println("Nie można dzielić przez 0");
+            System.out.println("You cannot divide by 0");
         }
         finally {
-            System.out.println("Koniec metody");
+            System.out.println("end of method");
         }
-
     }
-
 }

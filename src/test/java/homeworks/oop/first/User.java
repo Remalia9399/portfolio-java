@@ -1,4 +1,4 @@
-package pl.coderslab.homeworks.oop.first;
+package homeworks.oop.first;
 
 import java.util.Arrays;
 

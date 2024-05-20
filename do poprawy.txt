@@ -1,1 +1,3 @@
- 
+portfolio-java/src/test/java/homeworks/arrays/Main02
+portfolio-java/src/test/java/homeworks/arrays/Main03    tez mozna
+

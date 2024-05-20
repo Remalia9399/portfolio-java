@@ -1,4 +1,4 @@
-package pl.coderslab.homeworks.homeworks2;
+package homeworks.homeworks2;
 
 public class Book {
     private int id;
@@ -30,6 +30,5 @@ public class Book {
         }
         return result;
     }
-
 }
 
