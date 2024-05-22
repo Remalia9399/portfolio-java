@@ -1,7 +1,7 @@
 package oop.methods;
 
 public class Person {
-    String name = "Walt";
+    public String name = "Walt";
     String surname = "Kowalski";
     int age = 24;
     char gender = 'k';
