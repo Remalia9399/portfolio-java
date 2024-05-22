@@ -5,7 +5,7 @@ public class SalariedEmployee extends Employee {
     public SalariedEmployee(int id, String firstname, String lastName, double wage) {
         super(id, firstname, lastName, wage);
     }
-    public final double static calculatePayment() {
+    public final double calculatePayment() {
         double payment;
         double hoursInMonth = 190;
         payment = (hoursInMonth * wage);

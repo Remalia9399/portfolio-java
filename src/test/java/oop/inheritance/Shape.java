@@ -1,9 +1,9 @@
 package oop.inheritance;
 
 public class Shape {
-    private double x;
-    private double y;
-    private String color;
+    double x;
+    double y;
+    String color;
 
     public Shape(double x, double y, String color) {
         this.x = x;

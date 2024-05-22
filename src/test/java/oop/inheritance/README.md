@@ -13,7 +13,7 @@ Dodatkowo w tablicy operacji ma zapamiętać napis: "```num2``` root of ```num1`
 
 Stwórz klasę `Shape`, która będzie posiadała:
 
-1. prywatne atrybuty `x` i `y` (określające środek tego kształtu) oraz `color`,
+1. domyślne atrybuty `x` i `y` (określające środek tego kształtu) oraz `color`,
 2. konstruktor, przyjmujący zmienne określające wartości `x`, `y` i `color`, 
 3. metodę o nazwie `getDescription()`, wypisującą informacje o tym kształcie, zwracającą wartość typu `String`,
 4. metodę o nazwie `getDistance(Shape shape)`, zwracającą odległość od środka innego kształtu, wynik ma być typu `double`.
@@ -65,4 +65,4 @@ Klasa powinna:
 
 1. dziedziczyć po klasie `Employee`,
 2. mieć dodatkową metodę `calculatePayment()`, która będzie zwracała kwotę do wypłacenia pracownikowi za miesiąc
- (dla uproszczenia możemy założyć, że w każdym miesiącu jest 190 godzin pracujących – użyj `final static`). 
+ (dla uproszczenia możemy założyć, że w każdym miesiącu jest 190 godzin pracujących – użyj `final`). 
