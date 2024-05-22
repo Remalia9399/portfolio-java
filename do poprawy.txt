@@ -1,3 +1,9 @@
-portfolio-java/src/test/java/homeworks/arrays/Main02
-portfolio-java/src/test/java/homeworks/arrays/Main03    tez mozna
+portfolio-java/src/test/java/homeworks/arrays/Main02.java
+portfolio-java/src/test/java/homeworks/arrays/Main03.java    tez mozna
+
+
+portfolio-java/src/test/java/oop/inheritance/circle.java
+portfolio-java/src/test/java/oop/inheritance/SalariedEmployee.java
+
+
 
