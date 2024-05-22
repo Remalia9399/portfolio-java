@@ -1,3 +1,5 @@
+portfolio-java/src/test/java/basic2/algorithms/
+
 portfolio-java/src/test/java/homeworks/arrays/Main02.java
 portfolio-java/src/test/java/homeworks/arrays/Main03.java    tez mozna
 

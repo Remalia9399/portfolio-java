@@ -1,4 +1,4 @@
-package homeworks.oop.first;
+package homeworks.oop;
 
 public class Author {
     private  int id;

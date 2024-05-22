@@ -1,4 +1,4 @@
-package homeworks.oop.first;
+package homeworks.oop;
 
 public class BankAccount {
     private int number = 1234567890;
