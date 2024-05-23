@@ -6,3 +6,11 @@ portfolio-java/src/test/java/homeworks/arrays/Main03.java    tez mozna
 
 brakuje opisu do
 portfolio-java/src/test/java/oopPrework2/
+
+
+
+nie dziala
+portfolio-java/src/test/java/oopPrework2/afirstprogram/Main02Test.java
+portfolio-java/src/test/java/oopPrework2/afirstprogram/Main03Test.java
+
+portfolio-java/src/test/java/oopPrework2/bvariablesandoperators/Main01Test.java
