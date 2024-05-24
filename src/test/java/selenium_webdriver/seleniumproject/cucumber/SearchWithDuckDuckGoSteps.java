@@ -1,4 +1,4 @@
-package pl.coderslab.seleniumproject.cucumber;
+package selenium_webdriver.seleniumproject.cucumber;
 
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
@@ -7,7 +7,8 @@ import io.cucumber.java.en.When;
 import org.junit.jupiter.api.Assertions;
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
-import pl.coderslab.seleniumproject.cucumber.pageobject.DdgMainPage;
+import selenium_webdriver.seleniumproject.cucumber.pageobject.DdgMainPage;
+
 
 import java.io.File;
 import java.io.IOException;

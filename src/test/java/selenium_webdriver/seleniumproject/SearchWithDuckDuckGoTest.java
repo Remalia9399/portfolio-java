@@ -32,7 +32,7 @@ public class SearchWithDuckDuckGoTest {
                 Assertions.fail(String.format("Phrase '%s' NOT found in search result: %s", searchPhrase , searchResultText));
             }
         }
-        // alternatively - enter phrase and click search button on page as below:
+//        alternatively - enter phrase and click search button on page as below:
 //        searchInput.sendKeys("w pustyni i w puszczy");
 //        WebElement searchButton = driver.findElement(By.cssSelector("#searchbox_homepage button[type='submit']"));
 //        searchButton.click();

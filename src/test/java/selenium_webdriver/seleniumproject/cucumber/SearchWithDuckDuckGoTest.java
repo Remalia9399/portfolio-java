@@ -1,4 +1,4 @@
-package pl.coderslab.seleniumproject.cucumber;
+package selenium_webdriver.seleniumproject.cucumber;
 
 import io.cucumber.junit.Cucumber;
 import io.cucumber.junit.CucumberOptions;

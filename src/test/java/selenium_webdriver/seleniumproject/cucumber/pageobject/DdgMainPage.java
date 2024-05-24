@@ -1,4 +1,4 @@
-package pl.coderslab.seleniumproject.cucumber.pageobject;
+package selenium_webdriver.seleniumproject.cucumber.pageobject;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
