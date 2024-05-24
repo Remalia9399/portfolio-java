@@ -32,4 +32,9 @@ public class ExceptionsExample {
         }
         return a / b;
     }
+    public static void showLength(String s) {
+        if(s!=null) {
+            System.out.println(s.length());
+        }
+    }
 }
