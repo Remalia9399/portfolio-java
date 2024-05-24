@@ -4,10 +4,4 @@ portfolio-java/src/test/java/homeworks/arrays/Main02.java
 portfolio-java/src/test/java/homeworks/arrays/Main03.java    tez mozna
 
 
-brakuje opisu do
-portfolio-java/src/test/java/oopPrework2/
 
-
-
-
-portfolio-java/src/test/java/oopPrework2/bvariablesandoperators/Main01Test.java
