@@ -5,3 +5,10 @@ portfolio-java/src/test/java/homeworks/arrays/Main03.java    tez mozna
 
 
 
+
+src/test/java/exams/task1/Task1.java
+    dodanie rozmiaru koszulki
+    asercja do sprawdzenia powodzenia
+
+
+
