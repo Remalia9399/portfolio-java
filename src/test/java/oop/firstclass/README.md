@@ -1,14 +1,13 @@
-## Zadanie 1 - rozwiązywane z wykładowcą
+## Zadanie 1
 
 Stwórz klasę `Dog`.
-
 
 ## Zadanie 2
 
 Stwórz klasę `Cat`.
 
-
 #### Zadanie 3
+
 W pliku `Main01.java`:
 
 1. utwórz obiekt klasy Cat i przypisz do zmiennej `cat`,

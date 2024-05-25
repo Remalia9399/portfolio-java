@@ -1,4 +1,4 @@
-## Zadanie 1 - rozwiązywane z wykładowcą
+## Zadanie 1
 
 Utwórz klasę `AccessModifier` dodaj w niej atrybuty:
 
@@ -11,18 +11,15 @@ W pliku `Main01.java` umieść w metodzie `main` kod, który:
 1. Utworzy obiekt klasy `AccessModifier` i przypisze go do zmiennej `testAttribute`.
 2. Sprawdź które z atrybutów klasy `AccessModifier` są dostępne. 
 
-
-
 ## Zadanie 2
 
 W pliku `Main02.java`, w metodzie `main`, utwórz obiekt klasy `AccessModifier` o nazwie `testAttribute`,  
 a następnie ustaw i wyświetl wszystkie wartości, które są możliwe do ustawienia. 
 
-
-
 ## Zadanie 3
 
 Utwórz klasę `Person`, dodaj w niej atrybuty:
+
 - name,
 - surname,
 - age,

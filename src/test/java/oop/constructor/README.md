@@ -1,14 +1,11 @@
-## Zadanie 1 - rozwiązywane z wykładowcą
+## Zadanie 1
 
 Utwórz klasę `Burger`, dodaj w niej atrybuty:
 
 - size,
 - price.
-
 1. Utwórz konstruktor, który przyjmie i ustawi parametry `size` i `price`.
 2. Utwórz konstruktor bezargumentowy.
-
-
 
 ## Zadanie 2
 
@@ -29,8 +26,6 @@ Możesz dopisać metodę pomocniczą, która będzie dodawała wpis na liście o
 Pamiętaj o używaniu ```this``` w odpowiednich miejscach.
 Stwórz kilka kalkulatorów i przetestuj ich działanie.
 
-
-
 ## Zadanie 3
 
 Utwórz klasę `Person`, dodaj w niej atrybuty:
@@ -45,4 +40,3 @@ Wszystkie atrybuty mają być prywatne.
 1. Utwórz konstruktor, który przyjmie i ustawi parametry `name`, `surname`.
 2. Utwórz konstruktor, który przyjmie i ustawi parametry `name`, `age`.
 3. Utwórz konstruktor, który przyjmie i ustawi parametry `name`, `surname`, `age`, `gender`.
-

@@ -10,5 +10,6 @@ src/test/java/exams/task1/Task1.java
     dodanie rozmiaru koszulki
     asercja do sprawdzenia powodzenia
 
-
+src/test/java/selenium_webdriver/README.md
+                napisanie
 
