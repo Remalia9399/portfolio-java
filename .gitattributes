@@ -1,11 +1,4 @@
-# Linguist overrides
-*.md linguist-detectable=true
+*.md linguist-detectable=false
 README.md linguist-detectable=false
 readme.md linguist-detectable=false
 *.html linguist-detectable=false
-
-
-#*.md linguist-vendored=false
-#*.md linguist-generated=false
-#*.md linguist-documentation=false
-#*.md linguist-detectable=true
