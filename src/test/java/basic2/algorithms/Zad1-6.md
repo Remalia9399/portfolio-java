@@ -17,7 +17,6 @@ c1(yes)->c2
 c1(no, left)->e
 c2(yes)->op2->op3->
 op3(bottom)->c1(left)->
-
 ```
 
 ## Zadanie 2
@@ -133,4 +132,19 @@ c1(no,bottom)->c2
 c1(yes,right)->io3->e
 c2(yes)->io2->op2(left)->io1
 c2(no,left)->io1
+```
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+
+```
+
+
+
+```mermaid
+
 ```
