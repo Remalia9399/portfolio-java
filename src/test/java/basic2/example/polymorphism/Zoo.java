@@ -25,6 +25,8 @@ public class Zoo {
         for (Animal a : this.animals) {
             if(a instanceof Dog) {
                 a.feed(new Meat());
+//                break;
+//                return;
                 continue;
             }
             if(a instanceof Whale) {
