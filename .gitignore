@@ -36,8 +36,10 @@ build/
 
 ### Mac OS ###
 .DS_Store
-
-## Intellij dodatkowe ###
+### Recznie dodane
+# Intellij dodatkowe ###
 .idea/
 ### Kate ###
 *.kate-swp
+### Java ###
+out/
