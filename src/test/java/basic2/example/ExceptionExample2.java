@@ -7,7 +7,7 @@ public class ExceptionExample2 {
 //        int b = 0;
         int b = -1;
 //        int b = 3;
-        
+
         System.out.println(divide(a, b));
 
 //        try {
