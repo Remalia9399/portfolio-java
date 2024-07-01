@@ -8,6 +8,7 @@ import org.junit.runner.RunWith;
 @CucumberOptions(
         features = "src/test/java/exams/task1/feature/task1.feature",
 //        glue = "src/test/java/exams/task1/Task1.java",
+//        plugin = {"pretty", "html:out"}
         plugin = {"pretty", "html:reports/cucumber-report-task1.html"}
 )
 public class Task1Runner {
